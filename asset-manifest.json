@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/infinitescroll/static/js/main.def0641e.chunk.js",
+    "main.js.map": "/infinitescroll/static/js/main.def0641e.chunk.js.map",
+    "runtime-main.js": "/infinitescroll/static/js/runtime-main.50d0fafd.js",
+    "runtime-main.js.map": "/infinitescroll/static/js/runtime-main.50d0fafd.js.map",
+    "static/js/2.15662225.chunk.js": "/infinitescroll/static/js/2.15662225.chunk.js",
+    "static/js/2.15662225.chunk.js.map": "/infinitescroll/static/js/2.15662225.chunk.js.map",
+    "index.html": "/infinitescroll/index.html",
+    "static/js/2.15662225.chunk.js.LICENSE.txt": "/infinitescroll/static/js/2.15662225.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50d0fafd.js",
+    "static/js/2.15662225.chunk.js",
+    "static/js/main.def0641e.chunk.js"
+  ]
+}
